@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jaws-pokedex/static/css/main.05c6019c.css",
+    "main.js": "/jaws-pokedex/static/js/main.7c7e7683.js",
+    "static/js/787.730647dd.chunk.js": "/jaws-pokedex/static/js/787.730647dd.chunk.js",
+    "index.html": "/jaws-pokedex/index.html",
+    "main.05c6019c.css.map": "/jaws-pokedex/static/css/main.05c6019c.css.map",
+    "main.7c7e7683.js.map": "/jaws-pokedex/static/js/main.7c7e7683.js.map",
+    "787.730647dd.chunk.js.map": "/jaws-pokedex/static/js/787.730647dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05c6019c.css",
+    "static/js/main.7c7e7683.js"
+  ]
+}
