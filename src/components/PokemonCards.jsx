@@ -1,4 +1,5 @@
 import React from 'react'
+
 import { ReactComponent as FireSVG } from '../assets/PokemonTypeIcons/fire.svg';
 import { ReactComponent as NormalSVG } from '../assets/PokemonTypeIcons/normal.svg';
 import { ReactComponent as WaterSVG } from '../assets/PokemonTypeIcons/water.svg';
